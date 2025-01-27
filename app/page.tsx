@@ -29,7 +29,7 @@ export default function UserSettings() {
     "User can change settings",
     "User can view analytics",
     "User can publish content",
-    "User can manage users"
+    "User can manage user"
   ]
 
   const NavLinks = () => (
