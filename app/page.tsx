@@ -7,7 +7,7 @@ import { Input } from "@/components/ui/input"
 import { Switch } from "@/components/ui/switch"
 import { Card, CardHeader, CardContent } from "@/components/ui/card"
 import { Sheet, SheetTrigger, SheetContent } from "@/components/ui/sheet"
-import { Menu, ChevronLeft, ChevronRight, Search, ArrowLeft, LayoutDashboard, Activity, FileText, Settings,Shield,User } from 'lucide-react'
+import { Menu, ChevronLeft, ChevronRight, Search, ArrowLeft, LayoutDashboard, Activity, FileText, Settings} from 'lucide-react'
 import Link from "next/link"
 import Image from "next/image"
 
